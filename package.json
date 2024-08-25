@@ -1,5 +1,5 @@
 {
-  "name": "wfscroll",
+  "name": "@webfullset/wfscroll",
   "version": "1.0.0",
   "description": "WFScroll plugin - Animate elements as they scroll into view.",
   "main": "wfscroll.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebFullSet/WFScroll-plugin.git"
+    "url": "git+https://github.com/WebFullSet/WFScroll.git"
   },
   "keywords": [
   "webfullset",
@@ -17,10 +17,10 @@
   "ui",
   "frontend",
   "javascript"],
-  "author": "WebFullSet (Roman Kharchenko)",
+  "author": "WebFullSet (Roman Kharchenko) <infowebfullset@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WebFullSet/WFScroll-plugin/issues"
+    "url": "https://github.com/WebFullSet/WFScroll/issues"
   },
-  "homepage": "https://github.com/WebFullSet/WFScroll-plugin#readme"
+  "homepage": "https://github.com/WebFullSet/WFScroll#readme"
 }

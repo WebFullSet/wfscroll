@@ -1,5 +1,5 @@
 {
-  "name": "wfscroll-plugin",
+  "name": "wfscroll",
   "version": "1.0.0",
   "description": "WFScroll plugin - Animate elements as they scroll into view.",
   "main": "wfscroll.js",

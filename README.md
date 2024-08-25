@@ -25,15 +25,15 @@
 # Installation (using package managers)
 
 ```bash
-$ npm install wfscroll-plugin --save
+$ npm install wfscroll --save
 ```
 
 ```bash
-$ yarn add wfscroll-plugin
+$ yarn add wfscroll
 ```
 
 ```bash
-$ bower install wfscroll-plugin --save
+$ bower install wfscroll --save
 ```
 
 <br>

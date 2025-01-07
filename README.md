@@ -48,7 +48,7 @@ Add script right before closing ``</body>`` tag:
 ```html
 <script src="https://your_domain.com/js/wfscroll.js"></script>
 <script>
-    const WebAnim = new webFullsetAnimateBlock({
+    const WebAnim = new WFScroll({
         element: '.auto-animate'
     })
 </script>
